@@ -1,6 +1,6 @@
 /// <reference types="vite/client" />
 
-// ↓↓↓ useless if you has installed vue extension for vscode
+// ↓↓↓ useless if you have installed vue extension for vscode
 
 declare module '*.vue' {
   import { DefineComponent } from 'vue'
